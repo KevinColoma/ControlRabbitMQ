@@ -1,0 +1,19 @@
+{
+  "name": "controlrabbit",
+  "version": "1.0.0",
+  "description": "Este proyecto implementa una arquitectura de microservicios para un sistema de e-commerce con comunicación asíncrona mediante RabbitMQ.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "amqplib": "^0.10.9",
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  }
+}
